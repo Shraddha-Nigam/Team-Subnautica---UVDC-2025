@@ -14,4 +14,4 @@ Highlights:
 
 - Fail-safe recovery with autonomous surfacing and acoustic backup
 
-### Full technical details available in the UVDC 2025 report.
+### Full technical details available in the Team Subnautica - UVDC 2025 report.
