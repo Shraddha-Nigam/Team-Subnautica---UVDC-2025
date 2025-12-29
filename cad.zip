@@ -1,3 +1,1 @@
-git rm cad.zip
-git commit -m "Remove cad.zip"
-git push origin main
+
